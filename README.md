@@ -241,7 +241,7 @@ npm run dev
 npm run format
 ```
 
-### I'll see you in the next one!
+
 
 <br>
 
