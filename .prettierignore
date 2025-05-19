@@ -1,9 +1,5 @@
-node_modules/
-**/dist/
-**/coverage/
-**/build/
-**/.webpack/
-*.json
-*.md
-*.yml
-.next
+/frontend/dist
+/node_modules
+/frontend/node_modules
+/backend/node_modules
+README.md
